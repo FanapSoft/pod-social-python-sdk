@@ -1,0 +1,8 @@
+# coding=utf-8
+
+API_TOKEN = "1d997d8e758d4cd9be68d1aea5135b19"
+SERVER_MODE = "sandbox"  # sandbox or production
+
+USER_ID = 0  # شناسه کاربری مشتری
+ACCESS_TOKEN = "USER_ACCESS_TOKEN"  # اکسس توکن کاربر
+BUSINESS_ID = 0  # شناسه کسب و کار
